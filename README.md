@@ -42,6 +42,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kir0pills/kir0pills/output/snake.svg" alt="Snake animation" />
-
 ###
