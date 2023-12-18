@@ -1,4 +1,4 @@
-<h2 align="left">Yo! my name is kir0, i am from Poland.  I am passionate developer and gymrat</h2>
+<h2 align="left">Yo! my name is kir0, i am from Poland.  I am passionate developer and gymrat. Working on GROWTH Site in next.js</h2>
 
 ###
 
