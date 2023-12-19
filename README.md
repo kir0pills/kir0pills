@@ -45,15 +45,3 @@
 </div>
 
 ###
-
-<h6 align="center">Music</h6>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/caasperdawg">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=caasperdawg&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
