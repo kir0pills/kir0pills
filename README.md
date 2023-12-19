@@ -1,59 +1,59 @@
 <div align="center">
-  <img src="header2.png">
-</div>
-<h3 align="center">Hola amigos, Ich bin Meffiu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
-<h3 align="center">i am very lazy developer and i haven't done anything interesting (yet)</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mefuuu&label=Profile%20views&color=0e75b6&style=flat" alt="mefuuu" /> </p>
-
-<hr>
-<div align="center">
-  <strong>💻 Languages, Tools and Libraries:</strong>
-  <br>
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=black">
-  <img src="https://img.shields.io/badge/typescript-%2300FFFF.svg?style=for-the-badge&logo=typescript&logoColor=%2300FFFF&labelColor=black">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C&labelColor=black">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=%23777BB4&labelColor=black">
-  <img src="https://img.shields.io/badge/lua-%23777BB4.svg?style=for-the-badge&logo=lua&logoColor=%23777BB4&labelColor=black">
-  <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=blue&labelColor=black">
-  <img src="https://img.shields.io/badge/-node.js-green?style=for-the-badge&logo=node.js&logoColor=green&labelColor=black">
-  <img src="https://img.shields.io/badge/-npm-red?style=for-the-badge&logo=npm&logoColor=red&labelColor=black">
-  <img src="https://img.shields.io/badge/-Android-green?style=for-the-badge&logo=android&logoColor=green&labelColor=black">
-  <img src="https://img.shields.io/badge/-Linux-white?style=for-the-badge&logo=linux&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=green&labelColor=black">
-  <img src="https://img.shields.io/badge/-MySQL-orange?style=for-the-badge&logo=mysql&logoColor=orange&labelColor=black">
-<br>
--
-<br>
-  <strong>📱 IDEs/Editors:</strong>
-    <br>
-    <img src="https://img.shields.io/badge/pycharm-white?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=black">
-    <img src="https://img.shields.io/badge/sublime%20text-orange?style=for-the-badge&logo=sublimetext&logoColor=orange&labelColor=black">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=blue&labelColor=black">
-  <br>
+  <img height="300" src="https://media.discordapp.net/attachments/1185937845270085715/1186752454352707736/header_1.png?ex=65946459&is=6581ef59&hm=26e9123ef20521c17f884479ea6bff6eb57b80b3e8cd1213e119074095c530db&=&format=webp&quality=lossless&width=1390&height=521"  />
 </div>
 
-<hr>
+###
+
+<h3 align="center">Hi amigo, My name is kiro</h3>
+
+###
+
+<h2 align="center">i am a lazy developer, i currently working on workout tools site</h2>
+
+###
 
 <div align="center">
-  <strong>🔗 Links:</strong>
-<br>
-• Linktree: https://linktr.ee/Mefuuu/ <br>
-• Desu-Online.pl: https://desu-online.pl/ <br>
-• Discord Bots Poland: https://discordbots.pl/ <br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kir0pills.kir0pills&left_text=Profile%20views"  />
 </div>
 
-<hr>
+###
+
+<h5 align="center">Languages, Tools and libraries</h5>
+
+###
+
 <div align="center">
-  <strong>📈 Stats:</strong>
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mefuuu&show_icons=true&locale=en&layout=compact" alt="mefuuu" /><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mefuuu&show_icons=true&locale=en" alt="mefuuu" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
-<hr>
+###
+
+<h6 align="center">Stats</h6>
+
+###
+
 <div align="center">
-  <strong>Discord:</strong>
-  
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/334411435633541121)](https://discord.com/users/334411435633541121)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=kir0pills&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
+
+###
+
+<h6 align="center">Music</h6>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/caasperdawg">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=caasperdawg&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
