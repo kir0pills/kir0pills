@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="300" src="https://media.discordapp.net/attachments/1185937845270085715/1186752454352707736/header_1.png?ex=65946459&is=6581ef59&hm=26e9123ef20521c17f884479ea6bff6eb57b80b3e8cd1213e119074095c530db&=&format=webp&quality=lossless&width=1390&height=521"  />
-</div>
 
 ###
 
